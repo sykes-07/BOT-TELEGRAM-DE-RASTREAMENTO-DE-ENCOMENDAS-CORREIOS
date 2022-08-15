@@ -10,7 +10,7 @@ Pontos importantes:
 
     ° Só funciona com codigos de rastreamento disponibilizado pelos serviços dos correios 
     
-    ° o link de acesso ao bot é t.me/Sykes07_bot ou pesquisem por xxxxx no telegram
+    ° o link de acesso ao bot é t.me/Sykes07_bot ou pesquisem por Sykes0310_bot no telegram
 
     ° Feedbacks sobre o desenvolvimento são sempre bem vindos
 
